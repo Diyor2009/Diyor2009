@@ -5,23 +5,22 @@ I'm a 14-year-old developer from Uzbekistan, currently interning at Alitech. I e
 ## My Tech Stack 🛠️
 
 - **Frontend**: 
-    - !HTML
-    - !CSS
-    - !Javascript
-    - !React
+    - HTML
+    - CSS
+    - Javascript
+    - React
 - **Backend**: 
-    - !Express
-    - !Nest.js
-    - !Node.js
+    - Express
+    - Nest.js
+    - Node.js
 - **Databases**: 
-    - !MongoDB
-    - !PostgreSQL
-    - !Redis
+    - MongoDB
+    - PostgreSQL
+    - Redis
 - **Others**: 
-    - !GraphQL
-    - !Git
-    - !GitHub
-    - !Telegraf.js
+    - GraphQL
+    - Git/Github
+    - Telegraf.js
 
 ## What I Do 🚀
 
