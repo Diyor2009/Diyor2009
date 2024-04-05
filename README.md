@@ -1,6 +1,6 @@
 # Hi, I'm Diyor Umarqulov 👋
 
-I'm a 14-year-old developer from Uzbekistan, currently interning at Alitech. I enjoy building web applications and learning new technologies.
+I'm a developer from Uzbekistan, currently interning at Alitech. I enjoy building web applications and learning new technologies.
 
 ## My Tech Stack 🛠️
 
