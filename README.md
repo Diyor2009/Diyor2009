@@ -33,6 +33,6 @@ I'm always striving to improve my skills and learn new technologies. I believe t
 If you have any questions or suggestions, feel free to reach out to me. I'm always open to new ideas and opportunities.
 
 Email: diyor.umarqulov009@gmail.com <br />
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20" /> l 
+<a href="https://www.linkedin.com/in/diyor-umarqulov-757bb2259/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20" /></a>
 
 Thanks for visiting my profile!
