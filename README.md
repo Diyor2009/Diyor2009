@@ -4,10 +4,12 @@ I'm a developer from Uzbekistan, currently interning at Alitech. I enjoy buildin
 
 ## My Tech Stack 🛠️
 
+- **Programming Languages**:
+    - Javascript
+    - Typescript
 - **Frontend**: 
     - HTML
     - CSS
-    - Javascript
     - React
 - **Backend**: 
     - Express
@@ -21,6 +23,7 @@ I'm a developer from Uzbekistan, currently interning at Alitech. I enjoy buildin
     - GraphQL
     - Git/Github
     - Telegraf.js
+    - Jest.js
 
 ## What I Do 🚀
 
