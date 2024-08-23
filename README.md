@@ -9,8 +9,8 @@ I'm a developer from Uzbekistan, currently interning at Alitech. I enjoy buildin
     - Typescript
 - **Frontend**: 
     - HTML
-    - CSS
-    - React
+    - CSS (Sass)
+    - React.js (MUI)
 - **Backend**: 
     - Express
     - Nest.js
