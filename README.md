@@ -23,7 +23,7 @@ I'm a developer from Uzbekistan, currently interning at Alitech. I enjoy buildin
     - GraphQL
     - Git/Github
     - Telegraf.js
-    - Jest.js
+    - Testing (Jest.js)
     - Microservices (gRPC, Kafka)
 
 ## What I Do 🚀
