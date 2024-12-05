@@ -23,6 +23,7 @@ I'm a full-stack developer from Uzbekistan, currently interning at Alitech. I en
     - GraphQL
     - Git/Github
     - Telegraf.js
+    - Docker
     - Testing (Jest.js)
     - Microservices (gRPC, Kafka)
 
